@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su historia.
 
 Esta haciendo el curso de GIT poqrqu no tine nada que hacer.
+
+Hoy es Salesforce developer.
